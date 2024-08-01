@@ -5,7 +5,7 @@
 - [Two Sum Task](#two-sum-task)
   - [Contents](#contents)
   - [First Approach](#first-approach)
-    - [Brute-Force (Nested Loop) Approach:](#brute-force-nested-loop-approach)
+    - [Brute-Force (Nested Loop) Approach](#brute-force-nested-loop-approach)
     - [Implementation:](#implementation)
     - [Step-by-Step Execution:](#step-by-step-execution)
     - [Example Execution:](#example-execution)
@@ -24,7 +24,7 @@
 The first humanoid thinking would be looping over the nums and at every number value, starting an additional loop till the end of the nums and checking is the target reached or not.
 This is the brute-force approach to solving the Two Sum problem. This approach checks every possible pair of numbers in the list to see if they add up to the target. While this method is intuitive and straightforward, it is less efficient compared to using a hash table.
 
-### Brute-Force (Nested Loop) Approach:
+### Brute-Force (Nested Loop) Approach
 
 **Algorithm Explanation:**
 
@@ -96,7 +96,7 @@ The brute-force (nested loop) approach is the first natural way to think about f
 
 ## The Refined Approach
 
-Absolutely! Let's trace the thought process from the brute-force method to the optimized solution using the idea of complements. 
+Let's trace the thought process from the brute-force method to the optimized solution using the idea of complements.
 
 ### Starting Point: Brute-Force Method
 
@@ -107,7 +107,7 @@ Absolutely! Let's trace the thought process from the brute-force method to the o
 3. **Check Sum**: For each pair, check if their sum equals the target.
 4. **Return Indices**: If a pair is found, return their indices.
 
-This method checks every possible pair, resulting in a time complexity of \(\mathcal{O}(n^2)\).
+This method checks every possible pair, resulting in a time complexity of {O}(n^2).
 
 ### Optimization Thought Process
 
