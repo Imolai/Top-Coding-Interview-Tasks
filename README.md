@@ -4,7 +4,7 @@ Implementations of the most common coding interview tasks, focusing on data stru
 
 ## The Top Tasks
 
-The top 21 most typical Leetcode/Hackerrank tasks for senior software developer coding interviews focused on data structures, algorithms, and [**Big O** complexities](Code_Complexity.md):
+The top 21 most typical Leetcode/Hackerrank tasks for senior software developer coding interviews focused on data structures, algorithms, and [**Big O** complexities](https://github.com/Imolai/My-Python-Library/blob/main/Code_Complexity.md):
 
 | #    | Task                                                                                                                      | Solution                                                                                                                                                                                            |
 | ---- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
